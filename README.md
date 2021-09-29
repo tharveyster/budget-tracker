@@ -8,7 +8,7 @@ If you're online, then all transaction are immediately entered into the database
 This app uses ```HTML```, ```CSS```, ```JavaScript```, ```Node.js```, ```Express.js```, ```MongoDB```, ```Mongoose```, and ```IndexedDB```.
 
 ## Deployed Link
-This app has been deployed to Heroku at [pending...](#).
+This app has been deployed to Heroku at [this link](https://thawing-cove-07753.herokuapp.com/).
 
 ## Screenshots
 Pending...
