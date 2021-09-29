@@ -5,13 +5,21 @@ This app is a budget tracker that allows you to keep track of deposits and expen
 
 If you're online, then all transaction are immediately entered into the database. If you have no internet connection, the transactions are saved in IndexedDB and are posted to the database when an internet connection is available.
 
+The balance is shown at the top of the page, with a list of all transactions in the middle, and a graph of the running balance is at the bottom.
+
 This app uses ```HTML```, ```CSS```, ```JavaScript```, ```Node.js```, ```Express.js```, ```MongoDB```, ```Mongoose```, and ```IndexedDB```.
 
 ## Deployed Link
 This app has been deployed to Heroku at [this link](https://thawing-cove-07753.herokuapp.com/).
 
 ## Screenshots
-Pending...
+Start page            | First entry
+:-------------------:|:-------------------:
+![](public/images/budget-tracker-1.png) | ![](public/images/budget-tracker-2.png)
+Second entry         | Third entry
+![](public/images/budget-tracker-3.png) | ![](public/images/budget-tracker-4.png)
+Fourth entry         | Fifth entry
+![](public/images/budget-tracker-5.png) | ![](public/images/budget-tracker-6.png)
 
 ## Questions
 If you have questions about this repo, open an issue or contact me directly at todd@theharveysplace.com. You can find more of my work at [tharveyster](https://github.com/tharveyster).
