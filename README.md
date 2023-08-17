@@ -9,9 +9,6 @@ The balance is shown at the top of the page, with a list of all transactions in 
 
 This app uses ```HTML```, ```CSS```, ```JavaScript```, ```Node.js```, ```Express.js```, ```MongoDB```, ```Mongoose```, and ```IndexedDB```.
 
-## Deployed Link
-This app has been deployed to Heroku at [this link](https://thawing-cove-07753.herokuapp.com/).
-
 ## Screenshots
 Start page            | First entry
 :-------------------:|:-------------------:
@@ -22,7 +19,7 @@ Fourth entry         | Fifth entry
 ![](public/images/budget-tracker-5.png) | ![](public/images/budget-tracker-6.png)
 
 ## Questions
-If you have questions about this repo, open an issue or contact me directly at todd@theharveysplace.com. You can find more of my work at [tharveyster](https://github.com/tharveyster).
+If you have questions about this repo, open an issue or contact me directly at todd@weloveeats.com. You can find more of my work at [tharveyster](https://github.com/tharveyster).
 
 ## License
 ISC
